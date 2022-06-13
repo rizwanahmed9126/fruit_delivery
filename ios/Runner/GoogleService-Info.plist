@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>909953310681-2v943i03kb5uteb09qs70uo3t5d1hkmh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.909953310681-2v943i03kb5uteb09qs70uo3t5d1hkmh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>909953310681-nsigjadimcdsaf9ft9bpajvauej8nrhk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsPMk8Wzjl8wR6Dx_c8oVRQBumWQF-4IY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>909953310681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appstirr.guanabana</string>
+	<key>PROJECT_ID</key>
+	<string>guanabanas-y-mas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guanabanas-y-mas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:909953310681:ios:6b4b74fb040ab179e1c3c8</string>
+</dict>
+</plist>

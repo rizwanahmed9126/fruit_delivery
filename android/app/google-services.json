@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "909953310681",
+    "project_id": "guanabanas-y-mas",
+    "storage_bucket": "guanabanas-y-mas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909953310681:android:a70d6b661177e854e1c3c8",
+        "android_client_info": {
+          "package_name": "com.appstirr.guanabana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909953310681-a2sedtr5rrqe7b88dpesf969s5gv5qv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appstirr.guanabana",
+            "certificate_hash": "a207a1edefbfe848ca2450d1911902a53563efb0"
+          }
+        },
+        {
+          "client_id": "909953310681-1ndd0405rq31e95go0dc1ih1or3qt4ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1SWXdYsO_z2SwtCY_OkbagSj-YCczCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909953310681-1ndd0405rq31e95go0dc1ih1or3qt4ns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909953310681-2v943i03kb5uteb09qs70uo3t5d1hkmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appstirr.guanabana"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

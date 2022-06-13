@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuanaBanas</string>
+    <string name="facebook_app_id">464910601836818</string>
+    <string name="fb_login_protocol_scheme">fb4464910601836818</string>
+    <string name="facebook_client_token">b316f55c5d8ef5e7379953e7ee310394</string>
+</resources>
