@@ -17,8 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/rizwanahmed9126/fruit_delivery/blob/main/ezgif.com-gif-maker%20(1).gif
 
+https://github.com/rizwanahmed9126/fruit_delivery/blob/main/ezgif.com-gif-maker%20(2).gif
 
 
 ![](ezgif.com-gif-maker.gif)
 ![](ezgif.com-gif-maker%20(1).gif)
+![](ezgif.com-gif-maker%20(2).gif)
 
