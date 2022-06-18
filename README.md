@@ -3,6 +3,5 @@
 
 ![](ezgif.com-gif-maker.gif)
 ![](ezgif.com-gif-maker%20(1).gif)
-![](ezgif.com-gif-maker%20(2).gif)
 ![](ezgif.com-gif-maker%20(3).gif)
 
